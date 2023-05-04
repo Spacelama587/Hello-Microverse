@@ -114,6 +114,16 @@ npx hint .
 - LinkedIn: [V .](https://www.linkedin.com/in/v-24239b269/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **Responsive Sites**
+- [ ] **Dynamic Sites**
+- [ ] **Database driven dynamic Sites**
+
+
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
